@@ -1,0 +1,11 @@
+Decision Trees:
+> mean(acc)
+[1] 0.9138471
+> mean(auc)
+[1] 0.9233482
+
+Random Forest:
+> mean(acc)
+[1] 0.9419799
+> mean(auc)
+[1] 0.9866841
